@@ -23,16 +23,10 @@ de respostas que estão devidamente preenchidas, mas que não façam sentido.*
 *A pergunta 9 tem um formato que pode ser complicado de entender, então vou dar alguns
 exemplos do preenchimento:*
 
-|Tem conta no Facebook e no Twitter |
-|-----------------------------------|
-|     v9          |         1       | 
-|-----------------------------------|
-|     v10         |         1       | 
-|-----------------------------------|
-|     v11         |         1       | 
-|-----------------------------------|
-|     v12         |         1       | 
-|-----------------------------------|
-|     v13         |         1       | 
-|-----------------------------------|
-
+Tem conta no Facebook e no Twitter 
+| v9  | 1 |
+|-----|---|
+| v10 | 1 |
+| v11 | 2 |
+| v12 | 2 |
+| v13 | 2 |
