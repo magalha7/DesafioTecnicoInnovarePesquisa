@@ -46,3 +46,11 @@ Tem conta em todas as redes sociais da lista e no Google Plus, que entra como "O
 | v11 | 1 |
 | v12 | 1 |
 | v13 | 1 |
+
+# Solução
+* Primeiro baixe e instale o Xampp para ter acesso ao MySqlServer e o PHPMYAdmin
+* Importe o arquivo *desafiotecnico.sql* no MySqlServer através do PHPMyAdmin
+* Inicie os serviços Apache e MySQL no Xampp
+* Copie o arquivo *index.php* para a pasta *htdocs* do xampp no seu disco C:
+* Digite no seu navegador: http://localhost/index.php
+* Veja a solução
