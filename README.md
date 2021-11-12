@@ -30,3 +30,19 @@ Tem conta no Facebook e no Twitter
 | v11 | 2 |
 | v12 | 2 |
 | v13 | 2 |
+
+Não tem conta em nenhuma rede social
+| v9  | 2 |
+|-----|---|
+| v10 | 2 |
+| v11 | 2 |
+| v12 | 2 |
+| v13 | 2 |
+
+Tem conta em todas as redes sociais da lista e no Google Plus, que entra como "Outra"
+| v9  | 1 |
+|-----|---|
+| v10 | 1 |
+| v11 | 1 |
+| v12 | 1 |
+| v13 | 1 |
